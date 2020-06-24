@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
@@ -27,7 +27,6 @@ Here's a walkthrough of implemented user stories:
    <br> 
    GIF created with [Kap](https://getkap.co/).
 </p>
-
 
 ## Notes
 * I had trouble with the Build and adding Apache's commons-io 
