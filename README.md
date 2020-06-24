@@ -22,9 +22,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt text](SimpleTodo.gif)
+<p align="center">
+  <img width="500" height="1000" src="SimpleTodo.gif">
+   <br> 
+   GIF created with [Kap](https://getkap.co/).
+</p>
 
-GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 * I had trouble with the Build and adding Apache's commons-io 
