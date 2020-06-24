@@ -23,8 +23,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <p align="center">
-   <img width="425" height="1000" src="SimpleTodo.gif">
-   <img width="425" height="1000" src="SimpleTodo2.gif">
+   <img width="350" height="1000" src="SimpleTodo.gif">
+   <img width="350" height="1000" src="SimpleTodo2.gif">
    <br> 
    Left: Required Features 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
