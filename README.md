@@ -23,9 +23,13 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <p align="center">
-   <img width="400" height="1000" src="SimpleTodo.gif">
-   <img width="400" height="1000" src="SimpleTodo2.gif">
+   <img width="450" height="1000" src="SimpleTodo.gif">
+   <img width="450" height="1000" src="SimpleTodo2.gif">
    <br> 
+   Left: Required Features 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+   Right: Optional Features
+   <br>
    GIF created with [Kap](https://getkap.co/).
 </p>
 
