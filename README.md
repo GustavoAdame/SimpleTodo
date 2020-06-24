@@ -23,12 +23,16 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <p align="center">
-  <img width="500" height="1000" src="SimpleTodo.gif">
+   <img width="400" height="1000" src="SimpleTodo.gif">
+   <img width="400" height="1000" src="SimpleTodo2.gif">
    <br> 
    GIF created with [Kap](https://getkap.co/).
 </p>
 
+
+
 ## Notes
+* Followed the wrong tutorial - 😳
 * I had trouble with the Build and adding Apache's commons-io 
 * I had a runtime error with FileUtils which was resolved by initalizing the ArrayList in the catch block
 
